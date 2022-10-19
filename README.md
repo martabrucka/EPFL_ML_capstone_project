@@ -8,10 +8,10 @@ There are three groups of patients represented in the dataset:
 ii) hospitalized COVID-19 positive patients (>21 days from the first positive nasopharyngeal swab, post-acute phase COVID); 
 iii) subjects after 2–6 months from SARS-CoV-2 eradication post COVID." ([ref1]). 
 The objective is to check whether the three groups of subjects are distinct enough (in terms of their metabolomic and lipidomic profile) 
-so that a model can be built to predict the three classes. 
+so that a model could be built to predict the three classes. 
 Alternatively, if only the two most extreme classses (acute phase COVID and post-COVID) are distinguishable, 
 a model that will be built for the binary classification could be further used to predict the condition of the subjects from the third group (post-acute phase COVID). 
-The importance of features provided by the differet models that will be compared in this project may give insights 
+The importance of features provided by the different models that will be compared in this project may give insights 
 into how metabolomic/lipidomic profiles change in subjects accross the different stages after COVID-19 infection.
 
 [ref1] https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010443
